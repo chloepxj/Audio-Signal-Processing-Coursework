@@ -4,12 +4,10 @@ This repository contains coursework assignments for an audio signal processing c
 
 ## Folder Structure
 
-- `EQ_Design`: Assignments related to equalizer (EQ) design.
-- `Black_Box_Distortion_Modelling`: Assignments related to black-box distortion modeling.
-- `Filter_Design`: Assignments related to filter design.
-- `Audio_Signal_Analysis`: Assignments related to audio signal analysis.
-- `Audio_Effects`: Assignments related to implementing audio effects.
-- `Sound_Synthesis`: Assignments related to sound synthesis.
-- `Reverb_Implementation`: Assignments related to implementing basic reverb effects.
-
-Each folder contains code, documentation, and any additional resources specific to the corresponding assignment.
+- [EQ_Design](HW/H2-eq_design)
+- [Black_Box_Distortion_Modelling]()
+- [Filter_Design]()
+- [Audio_Signal_Analysis]()
+- [Audio_Effects]()
+- [Sound_Synthesis]()
+- [Reverb_Implementation]()
