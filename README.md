@@ -1,8 +1,8 @@
 # Audio Signal Processing Coursework
 
-This repository contains coursework assignments for an audio signal processing course. Each assignment focuses on a specific topic related to audio signal processing and includes code, documentation, and resources.
+This repository contains coursework assignments for the audio signal processing course. Each assignment focuses on a specific topic related to audio signal processing and includes code and resources.
 
-## Folder Structure
+## Contents
 
 - [EQ_Design](HW/H2-eq_design)
 - [Black_Box_Distortion_Modelling](HW/H3/code)
