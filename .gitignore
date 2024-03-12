@@ -16,3 +16,5 @@ slides/
 *.html
 *.pdf
 *.docx
+
+.DS_Store
